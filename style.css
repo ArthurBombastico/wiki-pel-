@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(0, 109, 0);
+    text-align: center;
+}
+
+a {
+
+border-style: solid;
+border-color: black;
+border-width: 2px;
+padding: 2px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;
+color: black;
+
+}
+
+h1 {
+
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    padding: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(222, 226, 2);
+}
+h2 {
+
+    border-style: solid;
+    border-color: black;
+    border-width: 3.5px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(222, 226, 2);
+}
+
+h3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.image {
+    clip-path: circle(75px);
+}
